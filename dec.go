@@ -7,7 +7,7 @@ import (
 
 const (
 	//MaxBytesPerEncLine is maximum number of bytes allowed in an UULine
-	MaxBytesPerEncLine = 61
+	MaxBytesPerEncLine = 63
 )
 
 //DecodeUUByte decodes given UUByte into normal byte
